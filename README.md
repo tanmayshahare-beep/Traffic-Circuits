@@ -1,6 +1,6 @@
-# Traffic Circuit Model: Electrical Analogy for Traffic Flow Prediction
+# Traffic Circuits: Electrical Analogy for Traffic Flow Prediction
 
-This project implements a novel approach to traffic flow prediction using electrical circuit analogies. The system models traffic networks as electrical circuits where traffic flow corresponds to electrical current, road resistance corresponds to electrical resistance, and travel time corresponds to voltage drop.
+Traffic Circuits implements a novel approach to traffic flow prediction using electrical circuit analogies. The system models traffic networks as electrical circuits where traffic flow corresponds to electrical current, road resistance corresponds to electrical resistance, and travel time corresponds to voltage drop.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -28,7 +28,7 @@ This analogy allows us to apply well-established circuit analysis techniques to 
 ## Project Structure
 
 ```
-C:\Lenovo hackathon/
+Traffic Circuits/
 ├── Iteration1_Basic_Model/
 │   └── traffic_circuit.py      # Basic deterministic traffic circuit model
 ├── Iteration2_Enhanced_Model/
